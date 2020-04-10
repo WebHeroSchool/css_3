@@ -1,0 +1,22 @@
+body {
+	background-color: #ffb380;
+	color: black;
+}
+section {
+	background-color: ;
+	font-family: 'Times New Roman', Times, serif;
+	font-style: normal;
+}
+div {
+  border-style: double;
+}
+.title__transfer {
+	padding: 5px;
+	/*font-style: italic;*/
+}
+footer {
+	font-style: italic;
+}
+button {
+	color: red;
+}
