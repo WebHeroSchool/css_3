@@ -1,6 +1,14 @@
+head {
+	font-family: 'PT serif';
+	font-style: normal;
+}
 body {
 	background-color: #ffb380;
 	color: black;
+}
+h1 {
+	font-family: 'PT serif';
+	font-style: bold;
 }
 section {
 	background-color: black;
