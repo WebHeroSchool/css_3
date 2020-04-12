@@ -1,9 +1,17 @@
+head {
+	font-family: 'PT serif';
+	font-style: normal;
+}
 body {
 	background-color: #ffb380;
 	color: black;
 }
+h1 {
+	font-family: 'PT serif';
+	font-style: bold;
+}
 section {
-	background-color: ;
+	background-color: black;
 	font-family: 'Times New Roman', Times, serif;
 	font-style: normal;
 }
@@ -16,6 +24,7 @@ div {
 }
 footer {
 	font-style: italic;
+	color: blue;
 }
 button {
 	color: red;
