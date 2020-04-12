@@ -3,7 +3,7 @@ body {
 	color: black;
 }
 section {
-	background-color: ;
+	background-color: black;
 	font-family: 'Times New Roman', Times, serif;
 	font-style: normal;
 }
@@ -16,6 +16,7 @@ div {
 }
 footer {
 	font-style: italic;
+	color: blue;
 }
 button {
 	color: red;
