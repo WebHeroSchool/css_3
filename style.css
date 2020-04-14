@@ -7,8 +7,9 @@ body {
 	color: black;
 }
 h1 {
-	font-family: 'PT serif';
-	font-style: bold;
+	font-family: Lobster;
+	font-style: normal;
+	font-size: normal;
 }
 section {
 	background-color: black;
